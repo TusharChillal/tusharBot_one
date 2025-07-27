@@ -71,8 +71,6 @@ tusharBot_one/
 │   └── demo_video.mp4
 ├── firmware/                  # ESP32 motor control firmware
 │   └── esp32_motor_controller.ino
-├── config/                    # ROS2 param config files
-│   └── joy.yaml
 ├── src/
 │   └── tusharBot_one/         # ROS2 Python package
 │       ├── launch/            # ROS2 launch files
